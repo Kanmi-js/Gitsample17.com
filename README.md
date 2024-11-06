@@ -1,2 +1,2 @@
-# principle.com-projet
-shell scripting git sampl project
+# principle.com-project
+shell scripting git sample project
